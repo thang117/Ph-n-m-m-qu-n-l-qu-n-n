@@ -3,9 +3,12 @@
 Phần mềm được tạo ra dựa trên video hướng dẫn tạo chương trình quản lý quán ăn bằng C# winform của HowKteam 
 
 Admin 
-- Account:k9 pass:1
+- Account: k9 
+- pass: 1
+
 Staff
-- Account:staff pass:1
+- Account: staff 
+- pass: 1
 
 *Note: mật khẩu sẽ được mã khóa vì vậy nếu bạn muốn thêm mật khẩu thông qua SQL hãy chắc rằng bạn mã hóa mật khẩu theo đoạn code dưới:
 
