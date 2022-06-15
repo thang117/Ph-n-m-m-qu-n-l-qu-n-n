@@ -1,6 +1,6 @@
 # Program-cafe-manager
 
-Phần mềm được tạo ra dựa trên video hướng dẫn tạo chương trình quản lý quán ăn bằng C# winform của HowKteam 
+Phần mềm được tạo ra dựa trên video hướng dẫn tạo chương trình quản lý quán ăn bằng C# winform của HowKteam. 
 
 Admin 
 - Account: k9 
@@ -25,4 +25,6 @@ Staff
             }
 #endregion
 
-*password ở đây là mật khẩu được nhập vào từ textbox
+*Password ở đây là mật khẩu được nhập vào từ textbox.
+
+*Phần mềm hiện tại chưa hoàn thiện.
