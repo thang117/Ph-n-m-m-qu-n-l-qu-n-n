@@ -13,6 +13,7 @@ Staff
 *Note: mật khẩu sẽ được mã khóa vì vậy nếu bạn muốn thêm mật khẩu thông qua SQL hãy chắc rằng bạn mã hóa mật khẩu theo đoạn code dưới:
 
  #region Mã hóa pass bằng md5
+ 
             byte[] temp = ASCIIEncoding.ASCII.GetBytes(password);                
             byte[] hashData = new MD5CryptoServiceProvider().ComputeHash(temp);  
                                                                                     
@@ -23,4 +24,5 @@ Staff
                 hashPass += item;
             }
 #endregion
+
 *password ở đây là mật khẩu được nhập vào từ textbox
